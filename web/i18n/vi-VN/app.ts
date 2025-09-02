@@ -162,6 +162,10 @@ const translation = {
       title: 'Giám sát Đám mây',
       description: 'Nền tảng quan sát được quản lý hoàn toàn và không cần bảo trì do Alibaba Cloud cung cấp, cho phép giám sát, theo dõi và đánh giá các ứng dụng Dify ngay lập tức.',
     },
+    mlflow: {
+      title: 'MLflow',
+      description: 'Nền tảng LLMOps mã nguồn mở cho theo dõi thử nghiệm, khả năng quan sát và đánh giá, để xây dựng ứng dụng AI/LLM với sự tự tin.',
+    },
   },
   answerIcon: {
     description: 'Có nên sử dụng biểu tượng web app để thay thế 🤖 trong ứng dụng được chia sẻ hay không',

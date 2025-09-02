@@ -166,6 +166,10 @@ const translation = {
       title: 'Bulut İzleyici',
       description: 'Alibaba Cloud tarafından sağlanan tamamen yönetilen ve bakım gerektirmeyen gözlemleme platformu, Dify uygulamalarının kutudan çıkar çıkmaz izlenmesi, takip edilmesi ve değerlendirilmesine olanak tanır.',
     },
+    mlflow: {
+      title: 'MLflow',
+      description: 'Deney takibi, gözlemlenebilirlik ve değerlendirme için açık kaynaklı LLMOps platformu, AI/LLM uygulamalarını güvenle oluşturmak için.',
+    },
   },
   answerIcon: {
     descriptionInExplore: 'Keşfet\'te değiştirilecek 🤖 web app simgesinin kullanılıp kullanılmayacağı',

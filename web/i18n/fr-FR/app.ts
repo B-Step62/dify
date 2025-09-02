@@ -162,6 +162,10 @@ const translation = {
       title: 'Surveillance Cloud',
       description: 'La plateforme d\'observabilité entièrement gérée et sans maintenance fournie par Alibaba Cloud permet une surveillance, un traçage et une évaluation prêts à l\'emploi des applications Dify.',
     },
+    mlflow: {
+      title: 'MLflow',
+      description: 'Plateforme LLMOps open source pour le suivi d\'expériences, l\'observabilité et l\'évaluation, pour créer des applications IA/LLM en toute confiance.',
+    },
   },
   answerIcon: {
     description: 'S’il faut utiliser l’icône web app pour remplacer 🤖 dans l’application partagée',
